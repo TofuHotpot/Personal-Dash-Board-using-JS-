@@ -32,5 +32,6 @@ After loading the application in a web browser, the user can:
 2. Get the weather by entering a city name and clicking the "Get Weather" button.
 3. Add tasks to the to-do list, check them off, or delete them.
 4. Write notes in the provided textarea and have the option to delete them.
-
+   
+# Demo
 Please watch the demo video to have a better understanding
